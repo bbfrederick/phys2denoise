@@ -125,3 +125,8 @@ dmypy.json
 .pyre/
 
 .vscode/
+
+# mac desktop files
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
